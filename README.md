@@ -40,31 +40,6 @@ Building scalable products, AI-powered systems, and modern applications.
 
 ---
 
-# 🚀 Featured Projects
-
-### 📈 TradePilot
-Autonomous Trading Research Engine combining RAG workflows with adaptive trading simulations.
-
-- LangChain + ChromaDB + Ollama
-- React + TypeScript dashboard
-- Real-time PnL visualization
-- Local LLM inference
-
-[Repository →](https://github.com/adarsh0052/TradePilot)
-
----
-
-### 🧠 ResuRank
-AI-powered resume screening and candidate ranking platform for recruiter workflows.
-
-- Resume parsing workflows
-- Semantic similarity ranking
-- FastAPI backend orchestration
-- Privacy-first processing
-
-[Repository →](https://github.com/adarsh0052/Resurank)
-
----
 
 # 📊 GitHub Stats
 
