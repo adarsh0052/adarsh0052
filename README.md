@@ -60,6 +60,10 @@ Building scalable products, AI-powered systems, and modern applications.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh0052&theme=tokyonight" />
+</p>
+
 ---
 
 # 📌 Current Focus
