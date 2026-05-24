@@ -32,23 +32,32 @@ Building scalable products, AI-powered systems, and modern applications.
 
 ---
 
-# ⚒️ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,ts,fastapi,postgres,git,figma,cpp" />
+  <img src="./assets/coding.gif" width="700"/>
 </p>
 
 ---
 
+# ⚒️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,react,ts,fastapi,postgres,git,figma,cpp,redux,tailwind,firebase" />
+</p>
+
+---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh0052&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh0052&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh0052&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh0052&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,9 +65,9 @@ Building scalable products, AI-powered systems, and modern applications.
 # 📌 Current Focus
 
 - React Native app development
-- AI-powered applications
 - Full-stack engineering
-- Scalable product workflows
+- AI-powered applications
+- Building scalable product workflows
 
 ---
 
@@ -67,3 +76,9 @@ Building scalable products, AI-powered systems, and modern applications.
 ```bash
 First make it work, then make it beautiful, then make it fast.
 ```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adarsh0052&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
