@@ -32,12 +32,6 @@ Building scalable products, AI-powered systems, and modern applications.
 
 ---
 
-<p align="center">
-  <img src="./assets/coding.gif" width="700"/>
-</p>
-
----
-
 # ⚒️ Tech Stack
 
 <p align="center">
@@ -80,9 +74,3 @@ Building scalable products, AI-powered systems, and modern applications.
 ```bash
 First make it work, then make it beautiful, then make it fast.
 ```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarsh0052&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
