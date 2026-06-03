@@ -35,18 +35,16 @@ Building scalable products, AI-powered systems, and modern applications.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh0052&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
+<!-- Streak — hosted by DemoLab, very reliable -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=adarsh0052&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Profile summary — Vercel hosted, generally stable -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh0052&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh0052&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh0052&theme=tokyonight" />
 </p>
