@@ -33,18 +33,12 @@ Building scalable products, AI-powered systems, and modern applications.
 
 ---
 
-# 📊 GitHub Activity & Stats
+# 🚀 What I'm Building
 
-<!-- Activity Graph: Very stable, shows a dynamic wave of your contribution history -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh0052&theme=tokyo-night&hide_border=true&bg_color=1A1B27" width="100%" />
-</p>
-
-<!-- Standard GitHub Readme Stats: The most actively maintained stats API -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh0052&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true" height="195" />
-</p>
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Production Management App** | `React Native` `Supabase` | An end-to-end management ecosystem for project and team workflows. |
+| **Autonomous Trading Bot** | `Python` `AI/ML` | A specialized algorithmic trading system designed for automated market execution. |
 
 ---
 
