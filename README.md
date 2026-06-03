@@ -35,19 +35,19 @@ Building scalable products, AI-powered systems, and modern applications.
 
 # 📊 GitHub Stats
 
-<!-- Streak — hosted by DemoLab, very reliable -->
+<!-- Streak — Hosted by DemoLab (Reliable, commit-focused) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=adarsh0052&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub Trophies — Gamified stats showing your profile rank and achievements -->
+<!-- Top Languages — Strictly code-focused (No community stats) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarsh0052&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
-<!-- Isometric Commit Calendar — Hosted by lecoq.io, replaces standard summary cards with a 3D view of your last half-year -->
+<!-- Isometric Commit Graph — 3D view of your contributions. 'base=false' strips out all followers/community profile data -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/adarsh0052?template=classic&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/adarsh0052?template=classic&base=false&isocalendar=true&isocalendar.duration=half-year&theme=tokyonight" />
 </p>
 
 ---
