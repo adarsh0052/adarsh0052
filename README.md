@@ -25,31 +25,17 @@ Building scalable products, AI-powered systems, and modern applications.
 
 ---
 
-# ⚒️ Tech Stack
+# 💻 System Status & Active Processes
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,ts,fastapi,postgres,git,figma,cpp,redux,tailwind,firebase" />
-</p>
-
----
-
-# 🚀 What I'm Building
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Production Management App** | `React Native` `Supabase` | An end-to-end management ecosystem for project and team workflows. |
-| **Autonomous Trading Bot** | `Python` `AI/ML` | A specialized algorithmic trading system designed for automated market execution. |
-
----
-
-# 📌 Current Focus
-- React Native app development
-- Full-stack engineering
-- AI-powered applications
-- Building scalable product workflows
-
----
-
-# ⚡ Motto
 ```bash
-First make it work, then make it beautiful, then make it fast.
+[adarsh@dev-machine ~]$ ./check_status.sh
+> Loading active modules...
+> [██████████░░] 80% - Training Autonomous Trading Bot (Python / AI)
+> [████████████] 100% - Architecting Production Management App (React Native / Supabase)
+> [████████░░░░] 60% - Exploring Advanced NLP & Agentic AI
+
+[adarsh@dev-machine ~]$ cat current_loadout.txt
+> PRIMARY   : React Native | Python | JavaScript
+> BACKEND   : Supabase | PostgreSQL | FastAPI
+> INTERESTS : Algorithmic Trading | Scalable Systems | Machine Learning
+> DOWNTIME  : Grinding in Warframe
