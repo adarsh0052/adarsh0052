@@ -35,19 +35,19 @@ Building scalable products, AI-powered systems, and modern applications.
 
 # 📊 GitHub Stats
 
-<!-- Streak — Hosted by DemoLab (Reliable, commit-focused) -->
+<!-- Streak — Hosted by DemoLab (Strictly contribution streak) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adarsh0052&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=adarsh0052&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Top Languages — Strictly code-focused (No community stats) -->
+<!-- Top Languages — Strictly code-focused -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
-<!-- Isometric Commit Graph — 3D view of your contributions. 'base=false' strips out all followers/community profile data -->
+<!-- Isometric Commit Graph — 3D view of your contributions. 'base=0' explicitly disables all community/profile data -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/adarsh0052?template=classic&base=false&isocalendar=true&isocalendar.duration=half-year&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/adarsh0052?template=classic&base=0&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&theme=tokyonight" alt="Isometric Commit Graph" />
 </p>
 
 ---
