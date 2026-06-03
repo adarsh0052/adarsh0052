@@ -33,20 +33,17 @@ Building scalable products, AI-powered systems, and modern applications.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity & Stats
 
-<!-- Streak — hosted by DemoLab, very reliable -->
+<!-- Activity Graph: Very stable, shows a dynamic wave of your contribution history -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adarsh0052&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh0052&theme=tokyo-night&hide_border=true&bg_color=1A1B27" width="100%" />
 </p>
 
-<!-- Profile summary — Vercel hosted, generally stable -->
+<!-- Standard GitHub Readme Stats: The most actively maintained stats API -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh0052&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh0052&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh0052&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh0052&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh0052&layout=compact&theme=tokyonight&hide_border=true" height="195" />
 </p>
 
 ---
@@ -62,4 +59,3 @@ Building scalable products, AI-powered systems, and modern applications.
 # ⚡ Motto
 ```bash
 First make it work, then make it beautiful, then make it fast.
-```
